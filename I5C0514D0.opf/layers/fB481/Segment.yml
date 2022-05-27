@@ -1,0 +1,39 @@
+id: fda249fe56934002bb7ed564717a6256
+annotation_type: Segment
+revision: '00001'
+annotations:
+  adf3c083a36f47e4988685100cd643f0:
+    span:
+      start: 0
+      end: 6
+    metadata: {}
+  dd0bd8b9f6574e7fa012876831225c5e:
+    span:
+      start: 9
+      end: 10
+    metadata: {}
+  5830d8b9e8ca4380bde8651ef3373ad7:
+    span:
+      start: 13
+      end: 14
+    metadata: {}
+  35a9d6e4f48b42e5b679585a2c5e1012:
+    span:
+      start: 17
+      end: 18
+    metadata: {}
+  7517819de3404223bee8866d5cf1706b:
+    span:
+      start: 21
+      end: 22
+    metadata: {}
+  209e18e43fcf4f76a2a4db56be96e170:
+    span:
+      start: 25
+      end: 26
+    metadata: {}
+  48b50e51ecbc4e1fba9d29c3e0a23383:
+    span:
+      start: 29
+      end: 30
+    metadata: {}
